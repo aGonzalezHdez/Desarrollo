@@ -4,15 +4,15 @@
 
 ## Datos Generales
 
-* [🚀 Introduccion](datos-generales/introduccion/README.md)
-  * [Vision](datos-generales/introduccion/vision.md)
-  * [Mission](datos-generales/introduccion/mission.md)
-  * [Focus](datos-generales/introduccion/focus.md)
-* [💖 Values](datos-generales/values.md)
+* [🚀 Introduccion](about-us/vision-mission-and-focus/README.md)
+  * [Vision](about-us/vision-mission-and-focus/vision.md)
+  * [Mission](about-us/vision-mission-and-focus/mission.md)
+  * [Focus](about-us/vision-mission-and-focus/focus.md)
+* [💖 Values](about-us/values.md)
 
 ## Equipo
 
-* [👋 Nuestro equipo de desarrollo](equipo/nuestro-equipo-de-desarrollo.md)
+* [👋 Nuestro equipo de desarrollo](team/meet-the-team.md)
 
 ## Collaborating
 

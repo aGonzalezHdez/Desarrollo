@@ -28,7 +28,7 @@ layout:
 
 Aquí un breve índice de lo que puedes encontrar aqui:
 
-* [Introducción al proyecto](datos-generales/introduccion/)
+* [Introducción al proyecto](about-us/vision-mission-and-focus/)
 * Tecnologías utilizadas.
 * Ubicación de proyecto.
 * Convenciones para el desarrollo de código
