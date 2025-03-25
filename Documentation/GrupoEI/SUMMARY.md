@@ -1,18 +1,18 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [🌐 Aplicativos](README.md)
 
-## About us
+## Datos Generales
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [🚀 Introduccion](datos-generales/introduccion/README.md)
+  * [Vision](datos-generales/introduccion/vision.md)
+  * [Mission](datos-generales/introduccion/mission.md)
+  * [Focus](datos-generales/introduccion/focus.md)
+* [💖 Values](datos-generales/values.md)
 
-## Team
+## Equipo
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [👋 Nuestro equipo de desarrollo](equipo/nuestro-equipo-de-desarrollo.md)
 
 ## Collaborating
 
