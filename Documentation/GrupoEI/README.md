@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🌐 Aplicativos
+# 🌐 Información General
 
 {% hint style="info" %}
 **Expectativa de uso:** La intención de este documentos es mostrar las configuraciones actuales de las aplicaciones en curso, si se requiere mas detalles, se recomienda dirigirse al encargado del área de desarrollo.
@@ -28,7 +28,7 @@ layout:
 
 Aquí un breve índice de lo que puedes encontrar aqui:
 
-* [Introducción al proyecto](about-us/vision-mission-and-focus/)
+* [Introducción al proyecto](broken-reference)
 * Tecnologías utilizadas.
 * Ubicación de proyecto.
 * Convenciones para el desarrollo de código
