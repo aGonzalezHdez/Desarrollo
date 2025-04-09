@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🌐 Aplicativos](README.md)
+* [🌐 Información General](README.md)
 
 ## Datos Generales
 
@@ -10,9 +10,13 @@
   * [Focus](about-us/vision-mission-and-focus/focus.md)
 * [💖 Values](about-us/values.md)
 
-## Equipo
+## AWS
 
-* [👋 Nuestro equipo de desarrollo](team/meet-the-team.md)
+* [☁️ Configuraciones AWS](aws/configuraciones-aws/README.md)
+  * [TSP](aws/configuraciones-aws/tsp.md)
+  * [Proyectos](aws/configuraciones-aws/proyectos/README.md)
+    * [Lectura de Correos](aws/configuraciones-aws/proyectos/lectura-de-correos.md)
+  * [Base de datos](aws/configuraciones-aws/base-de-datos.md)
 
 ## Collaborating
 
