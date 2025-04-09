@@ -12,7 +12,7 @@ Flujo:
 
 {% tabs %}
 {% tab title="Diagrama" %}
-
+<figure><img src="../../../.gitbook/assets/LecturaCorreosDiagrama.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Descripcion" %}
@@ -40,3 +40,23 @@ Paso 3:
 * Base de datos: [db-lecturacorreosaws](https://us-east-1.console.aws.amazon.com/rds/home?region=us-east-1#database:id=db-lecturacorreosaws;is-cluster=false)
 {% endtab %}
 {% endtabs %}
+
+Tecnologias generales:
+
+* Codigo: C# 8.0
+* Base de datos: MySQL  8.0.40
+
+Repositorio:
+
+* General: [https://github.com/AbrahamGonzalezHdez/LecturaCorreosSeparado-AWS.git](https://github.com/AbrahamGonzalezHdez/LecturaCorreosSeparado-AWS.git)
+* Proyectos:
+
+<table><thead><tr><th width="174.66668701171875">Proyecto</th><th>Descripcion</th></tr></thead><tbody><tr><td>DataBaseInitializer</td><td>Contiene la estructura de la Base de Datos utilizando EF</td></tr><tr><td>MailRead</td><td>Lectura de correos y envio de informacion al SNS</td></tr><tr><td>EmailProcessor</td><td>Genera la entrada a la base de datos.</td></tr></tbody></table>
+
+Especificaciones:
+
+* Se leen los correos cada 5 min.
+* Correo:
+  * El correo debe estar en la carpeta llamada Desarrollo.
+  * Debe estar como no leído.
+
