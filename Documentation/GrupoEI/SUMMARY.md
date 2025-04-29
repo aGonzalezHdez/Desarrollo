@@ -10,10 +10,10 @@
     * [Lectura de Correos](aws/configuraciones-aws/proyectos/lectura-de-correos.md)
   * [Base de datos](aws/configuraciones-aws/base-de-datos.md)
 
-## Collaborating
+## Redes
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [📜 Indice](redes/how-we-work-together.md)
+* [📅 Meetings](redes/meetings.md)
 
 ## Policies
 
