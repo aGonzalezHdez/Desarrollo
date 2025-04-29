@@ -24,7 +24,7 @@ Paso 3: Un lambda lee el SQS y genera una entrada a la base de datos
 {% endtab %}
 
 {% tab title="Actores por paso" %}
-Paso 1: &#x20;
+Paso 1:
 
 * Even Bridge: [TriggerMailReader](https://us-east-1.console.aws.amazon.com/scheduler/home?region=us-east-1#/schedules/default/TriggerMailReader)
 
@@ -44,11 +44,11 @@ Paso 3:
 Tecnologias generales:
 
 * Codigo: C# 8.0
-* Base de datos: MySQL  8.0.40
+* Base de datos: MySQL 8.0.40
 
 Repositorio:
 
-* General: [https://github.com/AbrahamGonzalezHdez/LecturaCorreosSeparado-AWS.git](https://github.com/AbrahamGonzalezHdez/LecturaCorreosSeparado-AWS.git)
+* General: [https://github.com/aGonzalezHdez/LecturaCorreosSeparado-AWS](https://github.com/aGonzalezHdez/LecturaCorreosSeparado-AWS)
 * Proyectos:
 
 <table><thead><tr><th width="174.66668701171875">Proyecto</th><th>Descripcion</th></tr></thead><tbody><tr><td>DataBaseInitializer</td><td>Contiene la estructura de la Base de Datos utilizando EF</td></tr><tr><td>MailRead</td><td>Lectura de correos y envio de informacion al SNS</td></tr><tr><td>EmailProcessor</td><td>Genera la entrada a la base de datos.</td></tr></tbody></table>
@@ -59,4 +59,3 @@ Especificaciones:
 * Correo:
   * El correo debe estar en la carpeta llamada Desarrollo.
   * Debe estar como no leído.
-
